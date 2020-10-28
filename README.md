@@ -1,1 +1,1 @@
-This is where I keep the code for a text based game i am working on, called the Trial of the Great hero.
+This is the github repository that I use for all of my code, and where i keep all of my files related to it.
